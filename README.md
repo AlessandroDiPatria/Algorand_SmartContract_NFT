@@ -1,7 +1,7 @@
 # Algorand_SmartContract_NFT
 Research for NFT and Smart Contract in Ethereum &amp; Algorand 
 
-#Introduzione
+# Introduzione
 Negli ultimi mesi si è sentito parlare spesso nei telegiornali e mezzi di informazione
 di opere d’arte digitali, riferendosi ad esse con il termine NFT, vendute per milioni
 di euro. Ad esempio, la casa d’aste Christie’s ha venduto per 69 milioni di dollari un
